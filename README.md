@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm an enthusiastic third-year Electrical and Electronic Engineering undergraduate at the University of Peradeniya, Sri Lanka. I love tackling complex problems with logical and creative thinking, especially through programming, circuit designing, and machine learning.
 
-![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Coding](235294015-47144047-25ab-417c-af1b-6746820a20ff.gif)
 
 ## 🔧 Skills
 - **Programming Languages:** Python, C, C++, AVR Assembly, Verilog HDL
