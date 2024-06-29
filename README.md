@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm an enthusiastic third-year Electrical and Elec
 ## 🎓 Education
 - **BSc Engineering (Hons)** - Electrical and Electronic Engineering
   - University of Peradeniya, Sri Lanka (March 2021 - Present)
-  - GPA: 3.96 / 4.00
 
 ## 🚀 Projects
 ### NexCal: A Smart Calculator
