@@ -1,6 +1,12 @@
-# Hi there, I'm Thimira Hirushan 👋
+# Hi there, I'm Thimira Peiris 👋
+
+![Profile views](https://gpvc.arturio.dev/ThimiH)
+![GitHub followers](https://img.shields.io/github/followers/ThimiH?label=Follow&style=social)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thimirah/)
 
 Welcome to my GitHub profile! I'm an enthusiastic third-year Electrical and Electronic Engineering undergraduate at the University of Peradeniya, Sri Lanka. I love tackling complex problems with logical and creative thinking, especially through programming, circuit designing, and machine learning.
+
+![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ## 🔧 Skills
 - **Programming Languages:** Python, C, C++, AVR Assembly, Verilog HDL
@@ -13,26 +19,16 @@ Welcome to my GitHub profile! I'm an enthusiastic third-year Electrical and Elec
   - University of Peradeniya, Sri Lanka (March 2021 - Present)
   - GPA: 3.96 / 4.00
 
-## 💼 Experience
-- **Electrical Engineer Intern** - AIGrow (Pvt) Ltd (August 2023 – October 2023)
-  - Worked on sensor calibration, circuit debugging, and firmware bug fixing.
-  - Designed and tested a new grow-light system.
-
 ## 🚀 Projects
 ### NexCal: A Smart Calculator
-- **Description:** Developed a smart calculator with problem scanning ability, 2D and 3D graph plotting, and more.
 - **Technologies:** Raspberry Pi Zero, PCB Design, Image Processing, Tkinter.
 - **Contribution:** Designed firmware, circuit layouts, and PCBs.
 
 ### StringSync: An Automatic Guitar Tuner
-- **Description:** Created an automatic guitar tuner for precise tuning by analyzing the sound signal.
 - **Technologies:** Atmega328P Microcontroller, AVR Assembly, Signal Processing.
 - **Contribution:** Designed and built circuits, developed hardware components, and optimized the code.
 
-### Smart Capacitive Grip Force Sensor
-- **Description:** Developed a grip force sensor for robotic applications.
-- **Technologies:** Digital filters, Digital Potentiometer, Arduino Uno.
-- **Contribution:** Built the sensor, designed and implemented the data acquisition circuit.
+![Guitar Tuner](https://media.giphy.com/media/26ufdN2knMc0zGz5e/giphy.gif)
 
 ## 🏆 Competitions and Awards
 - **IEEE SL Section Electronic Design Competition (EDC)** - 2nd Runners-up (2023)
@@ -40,15 +36,6 @@ Welcome to my GitHub profile! I'm an enthusiastic third-year Electrical and Elec
 - **IEEE Xtreme 17.0** - Top 400 out of 6000+ teams (2023)
 - **Coders V9.0** - 5th place (2022)
 - **MoraXtreme 8.0** - Top 10 (2023)
-
-## 🌟 Interests and Hobbies
-- Robotics and Automation
-- Mathematical Problem Solving
-- Competitive Coding
-- Electronics
-- Astronomy (Active member of FASE Astronomical Society)
-- Wildlife conservation, especially elephants
-- Cricket, movies, and music
 
 ## 📫 How to Reach Me
 - **Email:** [thimirahirushan7@gmail.com](mailto:thimirahirushan7@gmail.com)
@@ -61,8 +48,6 @@ Feel free to explore my repositories and get in touch if you'd like to collabora
 
 ### 📈 GitHub Stats
 ![Thimira's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThimiH&show_icons=true&theme=radical)
-
-### 🚀 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThimiH&layout=compact&theme=radical)
 
 
