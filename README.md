@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm an enthusiastic third-year Electrical and Elec
 - **Technologies:** Atmega328P Microcontroller, AVR Assembly, Signal Processing.
 - **Contribution:** Designed and built circuits, developed hardware components, and optimized the code.
 
-![Guitar Tuner](https://media.giphy.com/media/26ufdN2knMc0zGz5e/giphy.gif)
+<img src="addison-moyer-guitarlooped-50.gif" height="150" width="150">
 
 ## 🏆 Competitions and Awards
 - **IEEE SL Section Electronic Design Competition (EDC)** - 2nd Runners-up (2023)
