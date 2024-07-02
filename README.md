@@ -1,12 +1,11 @@
 # Hi there, I'm Thimira Peiris 👋
 
-![Profile views](https://gpvc.arturio.dev/ThimiH)
 ![GitHub followers](https://img.shields.io/github/followers/ThimiH?label=Follow&style=social)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thimirah/)
 
 Welcome to my GitHub profile! I'm an enthusiastic third-year Electrical and Electronic Engineering undergraduate at the University of Peradeniya, Sri Lanka. I love tackling complex problems with logical and creative thinking, especially through programming, circuit designing, and machine learning.
 
-<img src="235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="150" width="150">
+<img src="git_gif.gif" height="150" width="150">
 
 ## 🔧 Skills
 - **Programming Languages:** Python, C, C++, AVR Assembly, Verilog HDL
@@ -27,7 +26,7 @@ Welcome to my GitHub profile! I'm an enthusiastic third-year Electrical and Elec
 - **Technologies:** Atmega328P Microcontroller, AVR Assembly, Signal Processing.
 - **Contribution:** Designed and built circuits, developed hardware components, and optimized the code.
 
-<img src="addison-moyer-guitarlooped-50.gif" height="150" width="240">
+<img src="guitar.gif" height="150" width="250">
 
 ## 🏆 Competitions and Awards
 - **IEEE SL Section Electronic Design Competition (EDC)** - 2nd Runners-up (2023)
