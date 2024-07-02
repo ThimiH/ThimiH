@@ -1,11 +1,15 @@
-# Hi there, I'm Thimira Peiris 👋
+# Hi there, I'm Thimira Hirushan 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/ThimiH?label=Follow&style=social)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thimirah/)
 
 Welcome to my GitHub profile! I'm an enthusiastic third-year Electrical and Electronic Engineering undergraduate at the University of Peradeniya, Sri Lanka. I love tackling complex problems with logical and creative thinking, especially through programming, circuit designing, and machine learning.
 
+<center>
+
 <img src="git_gif.gif" height="150" width="150">
+
+</center>
 
 ## 🔧 Skills
 - **Programming Languages:** Python, C, C++, AVR Assembly, Verilog HDL
@@ -26,7 +30,11 @@ Welcome to my GitHub profile! I'm an enthusiastic third-year Electrical and Elec
 - **Technologies:** Atmega328P Microcontroller, AVR Assembly, Signal Processing.
 - **Contribution:** Designed and built circuits, developed hardware components, and optimized the code.
 
+<center>
+
 <img src="guitar.gif" height="150" width="250">
+
+</center>
 
 ## 🏆 Competitions and Awards
 - **IEEE SL Section Electronic Design Competition (EDC)** - 2nd Runners-up (2023)
